@@ -1,0 +1,37 @@
+id: P58C09288
+initial_creation_type: input
+source_metadata:
+  title: Guru Chökyi Wangchuk
+  language: en
+  description: 'Texts by the famous treasure-revealer Guru Chökyi Wangchuk (gu ru
+    chos kyi dbang phyug, 1212–1270):'
+  volume:
+    bba90babf70f4c3db9a6d4c5a63db66c:
+      title: Ārya Mañjuśrī Tantra Garbha—commentary
+      parent: Commentaries
+    2e71ab767a5b49bc84d59e61c2c3288a:
+      title: 'Emptying the Hells from their Very Depths: The Sovereign Practice for
+        the Confession of all Impairments and Breakages of Vows and all Negative Actions
+        and Obscurations'
+      parent: Confession
+    950ec10db422427ca8b6f9a8da8707a2:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      parent: Dhāraṇī
+    29f02c6dce104626a2945825fe546ea0:
+      title: 'Accomplishing the Lama through the Seven-Line Prayer: A Special Teaching
+        from the Lama Sangdü'
+      parent: Guru Padmasambhava
+    315c9744af73461d8b83d1eb893ea773:
+      title: Ārya Mañjuśrī Tantra Garbha
+      parent: Mañjuśrī
+    c7a130505cf54d35b6f8c8974c2d5867:
+      title: 'The Brilliant Essence: The Ritual Manual for the Secret Embodiment of
+        the Guru (Lama Sangdü)'
+      parent: Sādhanas
+    334a247f8d7846c6b7c3e5b7a7afde00:
+      title: 'Meeting the Buddha Face to Face: A Pith Instruction on Realizing the
+        Fortress, Ravine, and View of the Practice of Vajrakīla'
+      parent: Vajrakīla
+created_at: '2022-02-28T23:26:45.197564'
+last_modified_at: '2022-02-28T23:26:45.197571'
